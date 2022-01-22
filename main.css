@@ -1,0 +1,35 @@
+body {
+    background: url(./assets/Neverland.jpg)
+
+}
+
+.wrapper {
+    font-style: italic;
+    margin: 10px 10px 0px 0px;
+    background-color:rgb(172, 197, 146);
+    width: 500px;
+    height: 150px;
+    
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+.subtitle {
+    font-size: x-large;
+    text-align: center;
+    
+}
+
+#title-p {
+    text-align: center;
+}
+navbar ul {
+display: -ms-inline-flexbox;
+text-align: center
+
+}
+#number-one {
+text-align: center;
+}
